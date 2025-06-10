@@ -2,7 +2,7 @@
 Trabalho de ROS2 para Disciplina de Introdução a Robótica
 
 # Link para o video no YouTube
-# https://youtube.com/shorts/-p8D8h1KyQc?si=eQsCDkq8eS3xrrCg
+  https://youtube.com/shorts/-p8D8h1KyQc?si=eQsCDkq8eS3xrrCg
 
 # Robot Controller Node
 
